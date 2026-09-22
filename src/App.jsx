@@ -1,4 +1,4 @@
-
+import Pedido from './components/Pedidos'
 
 const App = () => {
   return (
