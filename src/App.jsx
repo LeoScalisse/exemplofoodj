@@ -1,10 +1,10 @@
-import Pedido from './components/Pedidos'
+import Pedido from './components/Pedido';
 
 const App = () => {
   return (
-    <>
-      
-    </>
+    <div>
+      <Pedido />
+    </div>
   )
 }
 
